@@ -24,9 +24,6 @@ sub_data$datetime <- strptime(paste(sub_data$Date, sub_data$Time), "%d/%m/%Y %H:
 rm(data)
 
 # Open png graphics device and set storing options.
-png("plot3.png", width = 480, height = 480)
-
-# Open png graphics device and set storing options.
 png("plot4.png", width = 480, height = 480)
 
 # Set a 2 by 2 grphic device in order to place the 4 diferent plots.
