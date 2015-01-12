@@ -1,4 +1,4 @@
-# File-Name:       plot1.R
+# File-Name:       plot3.R
 # Date:            10.01.2015
 # Author:          Federico Carlés
 # Email:           fedecarles@gmail.com                                      
